@@ -3,7 +3,7 @@
 
 `docker-make` is a command line tool inspired by [docker-compose](https://www.docker.com/products/docker-compose), while `docker-compose`
 focus on managing the lifecycle of a bunch of related docker containers, `docker-make` aimes at simplify and automate the procedure of
-building,tagging,and pusing a bunch of related docker images.
+building,tagging,and pushing a bunch of related docker images.
 
 ## table of contents
 - [Install](#installation)
